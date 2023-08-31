@@ -7,7 +7,7 @@
 <body <?php body_class('example'); ?>>
     <?php wp_body_open(); ?>
 
-    <p>Hello Ellu!</p>
+    <p>Hello Nellu!</p>
     
     <?php wp_footer(); ?>
 </body>
